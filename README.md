@@ -21,7 +21,7 @@ Sou estudante de Inteligência Artificial e este espaço reúne meus projetos, e
 - 🧠 Machine Learning
 - 🖼️ Reconhecimento de Imagens
 
-## 🎯 Objetivo
+## 🎯 Objetivo 
 
 Aprender, desenvolver soluções com IA e compartilhar minha evolução como desenvolvedora.
 
